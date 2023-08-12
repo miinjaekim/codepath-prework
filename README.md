@@ -47,3 +47,18 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+## App Brainstorming
+
+3-5 favorite applications and 2-3 features that make them my favorite app:
+
+- **BeReal**
+    - Posting pictures that snap images from the back and front cameras.
+    - Only being allowed to view posts of others once a user posts their own picture first.
+
+- **Habitica**
+    - Syncing across devices.
+    - Adding tags to different tasks created.
+
+App idea:
+
