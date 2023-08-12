@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *IOS101: Background Color Changer*
 
-Submitted by: **Your Name Here**
+Submitted by: **Minjae Kim**
 
-**Name of your app** is an app that... [TODO] 
+**Background Color Changer** is an app that... [changes the color of the background when a button is pressed.] 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
