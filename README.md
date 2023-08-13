@@ -38,12 +38,12 @@ GIF created with Kap.
     - Syncing across devices.
     - Adding tags to different tasks created.
 
-App idea I would like to build:
-    A goals, vision, and reflections sharing app. Friends can use this app to set their intentions for the day, week, month, year, etc. Progress and reflections are shared with others that are also sharing their authentic progress. The goal is that friends can be there for each other on the journey providing support and accountability. 
-    For features:
-    - a way to set and share goals, visions, or intentions for various timespans.
-    - users that have shared their own visions are the only ones that can see the intentions of others as well.
-    - a way to reflect on how the goal was achieved or was a challenge once the pre-set timespan for a goal, vision, or intention has passed.
+**App idea I would like to build:**
+    - A goals, vision, and reflections sharing app. Friends can use this app to set their intentions for the day, week, month, year, etc. Progress and reflections are shared with others that are also sharing their authentic progress. The goal is that friends can be there for each other on the journey providing support and accountability. 
+    - For features:
+        - a way to set and share goals, visions, or intentions for various timespans.
+        - users that have shared their own visions are the only ones that can see the intentions of others as well.
+        - a way to reflect on how the goal was achieved or was a challenge once the pre-set timespan for a goal, vision, or intention has passed.
 
 ## Notes
 
